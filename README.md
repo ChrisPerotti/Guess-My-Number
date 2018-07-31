@@ -1,3 +1,5 @@
 # Guess-My-Number
 
-This is a simple program that will generate a random number between 2 desired numbers. I currently have it set to between 1 and 100. The user will then guess the number. This program includes cstlib and ctime in order to seed the random number before creating it. 
+Welcome to Guess My Number! 
+
+This is one of the more common C++ programs you learn when first learning to code in C++, but here I will break down each portion of the code so we can see what exactly is going on behind the scenes. 
